@@ -45,3 +45,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+android/app/google-services.json
+macos/firebase_app_id_file.json
+macos/Runner/GoogleService-Info.plist
+macos
+ios
+android
+android/app
